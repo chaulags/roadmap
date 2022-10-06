@@ -93,3 +93,10 @@ Cloud design patterns to learn include:
 -   Data Management
 -   Design and Implementation
 
+### 8. Learn about various Web Server Application.
+
+Web Server are the software used to deliver web service using protocol such as HTTP/s and other protocols. It is really important for a DevOps engineer to configure such application, as many misconfiguration can lead to serious vulenrabilities as well as issues. To harden web server knowlege of following web server application can help create better security and service delivery. Make sure you understand the configuration structure and its implementation. They also have their own security modules you can look into. You can learn certain web server application first and build its concept and connect it with other application.
+
+- Apache
+- Nginx
+- Tomcat
